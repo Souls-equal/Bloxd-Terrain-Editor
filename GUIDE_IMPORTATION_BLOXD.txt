@@ -1,0 +1,14 @@
+============================================================
+📦 GUIDE D'IMPORTATION DIRECTE DANS BLOXD.IO
+============================================================
+
+Ce dossier "schematics" contient le fichier binaire de votre carte :
+👉 monde_defaut.bloxdschem (ou monde_personnalise.bloxdschem)
+
+COMMENT CHARGER LA CARTE DANS LE JEU EN 3 ÉTAPES :
+1. Lancez Bloxd.io dans votre navigateur web.
+2. Placez le fichier .bloxdschem dans votre dossier de schématiques Bloxd (ou via un mod/proxy de build compatible).
+3. En jeu, importer le schematiques depuis le shop (touche 'B' par defaut) World Edit ou via la commande dediée.
+
+Votre terrain s'affichera instantanément devant vous !
+============================================================
